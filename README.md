@@ -11,18 +11,25 @@
 主要功能展示：
 
 1、开始界面
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4a7d3fe71cc34355800623bb6521d962.png)
 
 2、学生端登录后界面
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/bc0c4db4d8ae4fd9b7213376948df24a.png)
 
 3、教师端登录后界面
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5b272b6e26524e57be503b0a4364cf83.png)
+
 4、教师端子菜单1
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/6dd4c12496804308b85085eb3f96b096.png)
 
 5、教师端子菜单2
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1dc68f8379824e39a4f10f1255b588a6.png)
+
 
 ### 主要函数描述
 - Stu_Register()、Tea_Register()学生、教师注册函数
@@ -64,5 +71,7 @@
 ## 使用说明
 使用Visual Studio 2013点击项目的 学生管理系统(图形版).sln 文件即可打开项目
 
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5ff69dc8f4e641e5914ac18eea141459.png)
+
 注意：最好使用Visual Studio 2013打开运行项目，不然可能会发生一些问题。
